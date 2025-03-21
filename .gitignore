@@ -104,3 +104,4 @@ debug.lua
 # node-osrm artifacts
 lib/binding
 
+.xmake/
